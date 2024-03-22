@@ -65,7 +65,7 @@ p2.fechar();
   }
 
   public void mostrarPortAberta(){
-    System.out.println("A casa possui "+numPortAberta+" portas abertas");
+    System.out.println("A casa " + cor +"possui "+numPortAberta+" portas abertas");
   }
   
 
